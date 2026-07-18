@@ -113,3 +113,4 @@ It contains the Date, position (1 for long, -1 for short, 0 for flat), and resul
 4. Determine trend direction, breakout or overextension status, and momentum strength.
 5. Generate long, short, or hold decisions, applying a stoploss for risk management.
 6. Store the results in final_endterm.csv.
+7. Benchmark strategy performance (wealth growth, CAGR, max drawdown) against simple buy-and-hold to evaluate real-world effectiveness.
