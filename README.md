@@ -104,7 +104,7 @@ It contains the Date, position (1 for long, -1 for short, 0 for flat), and resul
 4. Analyze indicator values.
 5. Generate trading signals.
 6. Store the results in final.csv.
-7. Visualize market trends using graphs.
+
 ## EndTerm Project Workflow
  
 1. Fetch live NIFTY 500 index data using yfinance.
